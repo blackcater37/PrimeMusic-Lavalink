@@ -26,7 +26,7 @@ module.exports = {
   commandsDir: './commands',  
   embedColor: "#1db954",
   musicardTheme:"themes16", //Goes from themes1 to themes19
-  activityName: "You", // This is bot status Write Anything here 
+  activityName: "Music", // This is bot status Write Anything here 
   activityType: "WATCHING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/xQF9f9yUEM",
   CheckmarkIcon: "https://cdn.discordapp.com/emojis/819446784647757834.gif",
